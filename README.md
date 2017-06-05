@@ -1,7 +1,9 @@
 # Server info
-* Public IP Address: 52.32.240.84
-* URL: http://ec2-52-32-240-84.us-west-2.compute.amazonaws.com/
-* Port: 2200
+* ~~Public IP Address: 52.32.240.84~~
+* ~~URL: http://ec2-52-32-240-84.us-west-2.compute.amazonaws.com/~~
+* ~~Port: 2200~~
+
+The server has been taken down after I completed the Nanodegree program.
 
 # Guide to how I set things up
 ## First, create a new user, "grader"
